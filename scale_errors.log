@@ -1,0 +1,12 @@
+ERROR:root:Error opening serial port: could not open port 'COM3': FileNotFoundError(2, 'The system cannot find the file specified.', None, 2)
+ERROR:root:Error opening serial port: could not open port 'COM3': FileNotFoundError(2, 'The system cannot find the file specified.', None, 2)
+ERROR:root:Failed to zero scale: None
+ERROR:root:Failed to zero scale: None
+ERROR:root:Invalid weight response: 4432fds
+ERROR:root:Failed to zero scale: None
+ERROR:root:Error opening serial port: could not open port 'COM3': PermissionError(13, 'Access is denied.', None, 5)
+ERROR:root:Invalid weight response: fdsaasasdfffdfsfff
+ERROR:root:Failed to zero scale: None
+ERROR:root:Failed to zero scale: 0
+ERROR:root:Failed to zero scale: None
+ERROR:root:Failed to zero scale: None
